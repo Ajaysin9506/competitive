@@ -57,7 +57,7 @@ void solve(){
     cout<<n<<endl;
 }
 signed main(){
-    // init_code();
+    init_code();
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
